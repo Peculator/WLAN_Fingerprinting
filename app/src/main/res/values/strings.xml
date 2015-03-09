@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WLAN_Fingerprinting</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="analyze">Analyze</string>
+
+    <string-array
+        name="locations">
+        <item>Keller</item>
+        <item>1.Stock</item>
+        <item>2.Stock</item>
+        <item>Dachboden</item>
+    </string-array>
+
+</resources>
+
+
